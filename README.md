@@ -1,6 +1,6 @@
 # Informatique L1
 
-## Détails sur les TD et TP
+## Détails sur les TDs et TPs (TDs Machines)
 
 - TD1 --> Tableaux (Semaine 1)
 - TP1 --> [Jeu de Yams](https://fr.wikipedia.org/wiki/Yahtzee) (Semaine 2)
@@ -8,6 +8,12 @@
 - TP2 --> Tableaux et complexité (Semaine 4)
 - TD3 --> Récursivité (Semaine 5)
 - TP3 --> Récursivité (Semaine 6)
+- TD4 --> Tris (Semaine 7)
+- TP4 --> Tris (Semaine 8)
+- TD5 --> Traitements sur les images (Semaine 9)
+- TP5 --> Images et détection de contours (Semaine 10)
+- TD6 --> Introduction aux graphes (Semaine 11)
+- TP6 --> Graphes et connexités (Semaine 12)
 
 ## Disponibilité du cours
 
